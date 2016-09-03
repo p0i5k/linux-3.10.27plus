@@ -1,6 +1,6 @@
 This source code was provided by Sony based on a written source code offer on 5-July-2016.
 
-Covers MediaTek MT53xx/MT588x-series chips:
+Covers MediaTek MT53xx/MT58xx-series chips:
 
 	MediaTek MT5368 (Cortex-A9 single-core)
 	MediaTek MT5368_FPGA (ARM11)
@@ -20,12 +20,12 @@ Covers MediaTek MT53xx/MT588x-series chips:
 
 Real-world devices known to have these chips:
 DEXP: B9000, B9900, maybe other
-Hisense: K321, K700, K720, XT910, maybe other
+HiSense: K321, K700, K720, XT910, maybe other
 
 Also see:
 Rooting MediaTek Based Linux Smart TV / xda-developers
-http://forum.xda-developers.com/android/software/rooting-mediatek-based-linux-smart-tv-t3150281
+ http://forum.xda-developers.com/android/software/rooting-mediatek-based-linux-smart-tv-t3150281
 
-GCC Toolchain for Vizio Smart TVs based on MediaTek MT53xx/MT588x
-https://github.com/p0isk/gnu-toolchain_4.8.2
+GCC Toolchain for HiSense Smart TVs based on MediaTek MT53xx/MT58xx
+ https://github.com/p0isk/gnu-toolchain_4.8.2
 
