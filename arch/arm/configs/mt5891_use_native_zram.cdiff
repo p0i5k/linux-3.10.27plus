@@ -1,0 +1,3 @@
+ ZRAM_OVER_FBM n
+ ZSMALLOC y
+ ZRAM y
