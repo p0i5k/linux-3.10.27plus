@@ -19,13 +19,14 @@ Covers MediaTek MT53xx/MT58xx-series chips:
 	MediaTek MT5891 (Oryx Cortex-A53 quad-core)
 
 Real-world devices known to have these chips:
-DEXP: B9000, B9900, maybe other
-HiSense: K321, K700, K720, XT910, maybe other
+some Sony models
 
 Also see:
 Rooting MediaTek Based Linux Smart TV / xda-developers
+
  http://forum.xda-developers.com/android/software/rooting-mediatek-based-linux-smart-tv-t3150281
 
 GCC Toolchain for HiSense Smart TVs based on MediaTek MT53xx/MT58xx
+
  https://github.com/p0isk/gnu-toolchain_4.8.2
 
